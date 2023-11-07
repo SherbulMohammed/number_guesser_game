@@ -1,2 +1,2 @@
 # number_guesser_game
-a number guessing game created using JavaScript
+a random number guessing game created using JavaScript
